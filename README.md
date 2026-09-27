@@ -6,7 +6,11 @@ A 16-bit quantized convolutional neuron carried through a complete timing-driven
 
 **Role (co-first author):** literature review, neuron architecture design, RTL implementation, synthesis through place-and-route, and timing closure.
 
-![status](https://img.shields.io/badge/ICECE-submitted-orange) ![flow](https://img.shields.io/badge/flow-RTL_to_GDSII-blue) ![pdk](https://img.shields.io/badge/PDK-CNFET7%20%7C%20ASAP7-red) ![tool](https://img.shields.io/badge/Cadence-Genus%20%7C%20Innovus-informational)
+![flow](https://img.shields.io/badge/flow-RTL_to_GDSII-blue)
+![pdk](https://img.shields.io/badge/PDK-CNFET7%20%7C%20ASAP7-red)
+![tool](https://img.shields.io/badge/Cadence-Genus%20%7C%20Innovus-green)
+![tcl](https://img.shields.io/badge/Scripting-TCL-orange)
+![hdl](https://img.shields.io/badge/HDL-SystemVerilog-blueviolet)
 
 
 ## Results
